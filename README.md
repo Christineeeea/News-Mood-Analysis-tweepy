@@ -1,5 +1,4 @@
-##Distinguishing Sentiments
-
+Distinguishing Sentiments
 
 Background
 
